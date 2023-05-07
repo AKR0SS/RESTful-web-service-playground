@@ -22,6 +22,10 @@ CORS: Cross-Origin Resource Sharing - [Definition & Discussion](https://develope
 
 This RESTful API uses [Node](https://nodejs.org/en/about/) and [Express](https://expressjs.com/)
 
+## Secondary Links
+
+https://www.section.io/engineering-education/how-to-create-a-simple-rest-api-using-typescript-and-nodejs/
+
 ## Disclaimer
 
 This project is not my own, but mearly a mash up of a lot of different tutorials while I explore how to build and work with API's.
